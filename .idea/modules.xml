@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Factorial/Factorial.iml" filepath="$PROJECT_DIR$/Factorial/Factorial.iml" />
       <module fileurl="file://$PROJECT_DIR$/MultithreadMatrices/MultithreadMatrices.iml" filepath="$PROJECT_DIR$/MultithreadMatrices/MultithreadMatrices.iml" />
       <module fileurl="file://$PROJECT_DIR$/RegexWikipediaLinks/RegexWikipediaLinks.iml" filepath="$PROJECT_DIR$/RegexWikipediaLinks/RegexWikipediaLinks.iml" />
       <module fileurl="file://$PROJECT_DIR$/StudentManagement/StudentManagement.iml" filepath="$PROJECT_DIR$/StudentManagement/StudentManagement.iml" />
