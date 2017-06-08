@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement />
+  <nodes>
+    <node x="-221.02181400688863" y="159.5269804822044">de.gruppe3.projekt2.Student</node>
+    <node x="-34.74056400688863" y="658.5269804822044">de.gruppe3.projekt2.Main</node>
+    <node x="55.07193599311137" y="-53.47301951779559">de.gruppe3.projekt2.Exam</node>
+    <node x="605.28125" y="0.0">de.gruppe3.projekt2.InputHelper</node>
+    <node x="576.28125" y="246.0">de.gruppe3.projekt2.Validator</node>
+    <node x="648.8059701492537" y="559.0482204362801">de.gruppe3.projekt2.OutputHelper</node>
+    <node x="679.78125" y="145.0">de.gruppe3.projekt2.InputHelper.ValidationMethod</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="de.gruppe3.projekt2.Student" target="de.gruppe3.projekt2.Exam">
+      <point x="0.0" y="-224.5" />
+      <point x="25.478185993111367" y="134.5269804822044" />
+      <point x="111.57193599311137" y="134.5269804822044" />
+      <point x="-56.5" y="81.5" />
+    </edge>
+    <edge source="de.gruppe3.projekt2.InputHelper.ValidationMethod" target="de.gruppe3.projekt2.InputHelper">
+      <point x="0.0" y="-25.5" />
+      <point x="0.0" y="47.5" />
+    </edge>
+    <edge source="de.gruppe3.projekt2.Validator" target="de.gruppe3.projekt2.InputHelper.ValidationMethod">
+      <point x="0.0" y="-125.0" />
+      <point x="0.0" y="25.5" />
+    </edge>
+    <edge source="de.gruppe3.projekt2.Main" target="de.gruppe3.projekt2.Exam">
+      <point x="115.0" y="-147.0" />
+      <point x="252.75943599311137" y="633.5269804822044" />
+      <point x="282.47818599311137" y="633.5269804822044" />
+      <point x="282.47818599311137" y="134.5269804822044" />
+      <point x="224.57193599311137" y="134.5269804822044" />
+      <point x="56.5" y="81.5" />
+    </edge>
+    <edge source="de.gruppe3.projekt2.Main" target="de.gruppe3.projekt2.Student">
+      <point x="0.0" y="-147.0" />
+      <point x="137.75943599311137" y="633.5269804822044" />
+      <point x="148.72818599311137" y="633.5269804822044" />
+      <point x="123.25" y="224.5" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="0.8415458937198068" x="591.9615384615385" y="459.5" />
+  <SelectedNodes />
+  <Categories>
+    <Category>Fields</Category>
+    <Category>Inner Classes</Category>
+    <Category>Constructors</Category>
+    <Category>Properties</Category>
+    <Category>Methods</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
