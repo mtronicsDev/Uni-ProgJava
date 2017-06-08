@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Factorial/Factorial.iml" filepath="$PROJECT_DIR$/Factorial/Factorial.iml" />
       <module fileurl="file://$PROJECT_DIR$/MultithreadMatrices/MultithreadMatrices.iml" filepath="$PROJECT_DIR$/MultithreadMatrices/MultithreadMatrices.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RegexUserData/RegexUserData.iml" filepath="$PROJECT_DIR$/RegexUserData/RegexUserData.iml" />
       <module fileurl="file://$PROJECT_DIR$/RegexWikipediaLinks/RegexWikipediaLinks.iml" filepath="$PROJECT_DIR$/RegexWikipediaLinks/RegexWikipediaLinks.iml" />
       <module fileurl="file://$PROJECT_DIR$/StudentManagement/StudentManagement.iml" filepath="$PROJECT_DIR$/StudentManagement/StudentManagement.iml" />
       <module fileurl="file://$PROJECT_DIR$/Uni-ProgJava.iml" filepath="$PROJECT_DIR$/Uni-ProgJava.iml" />
